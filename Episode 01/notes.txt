@@ -1,0 +1,32 @@
+|-------------------------------------------- 
+| Introduction
+|--------------------------------------------
+
+HTML (Hypertext Markup Language) uses a markup system composed of elements to represent specific content. 
+The HTML element usually consists of a opening and closing tag. i.e. <element_name>Content</element_name>
+
+* Void elements: are elements that don't have a closing tag.
+For example, the following are void elements:
+    - <img>
+    - <meta>
+    - <link>
+    - <input>
+
+The difference between elements and tags:
+1. Elements: video, audio, table and footer
+2. <video>, <audio>, <table>, <footer>, </html> and </body>
+
+Have a look at the hello.html file to see a simple HTML file structure. 
+
+----------------------------------------
+|
+| Explanation of the hello.html file
+|
+----------------------------------------
+1. <!DOCTYPE>: Defines the HTML version, we are using HTML 5.
+2. <html>: Opens the page.
+3. <head>: Contains data and information that does not appear on the page, sometimes referred to as metadata. 
+4. <meta>: Gives the browser metadata to work with. 
+5. <title>: Displays the title of the page.
+6. <body>: Is the opening tag of the document and all the information the users will see. 
+7. <h1>: A level 1 heading for the page. 
